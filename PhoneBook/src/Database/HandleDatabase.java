@@ -101,8 +101,4 @@ public class HandleDatabase {
         }
         return users;
     }
-    public static void main(String[] args){
-        HandleDatabase hd = new HandleDatabase();
-        hd.addUser("Jana nei", "ki kore bolbo", "992345");
-    }
 }
